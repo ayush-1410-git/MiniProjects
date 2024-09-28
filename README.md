@@ -1,2 +1,2 @@
 # MiniProjects
-Mini PRojects of css,html,js.
+Mini Projects of css,html,js.
